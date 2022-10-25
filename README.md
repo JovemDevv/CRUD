@@ -11,5 +11,5 @@
 Tecnologias usadas:
 
 <ul>Python(django)</ul>
-<ul>Banco de dados(esse foi utilizado um banco de dados padrao do django o SQL Lite)</ul>
+<ul>Banco de dados(esse foi utilizado um banco de dados padrão do django o SQL Lite)</ul>
 
